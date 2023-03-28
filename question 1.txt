@@ -1,0 +1,37 @@
+1A An algorithm is a step by step procedure which follows a given set of instructions to produce a definite output, hence solving a given problem.
+example; write an algorithm to subtract two numbers
+
+         1 Start
+         2 Declare three variables p, y, z
+         3 assign a value to p,y
+         4 z=p-y
+         5 print (z)
+         6 Stop 
+1B A pseudocode is a statement which shows how the code would execute but is not dependent on the programming language
+
+1D Properties of an algorithm include;
+   input: the algorithm must have an input with values from a specified set
+   output: the output values are the solution to the problem
+   finiteness
+   definiteness
+   effectiveness
+   independent
+
+1E  Start(launch jupyter notebook)
+          Declare three variables p, y, z
+          assign a value to p,y
+          z=p+y
+          print z
+    Stop 
+
+
+     p= 1
+     y= 2
+     z=p+y
+      print(z)
+
+1F  pseudo code to add two numbers
+       input p 
+       input y
+       z=p+y
+       output z
